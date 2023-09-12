@@ -6,7 +6,7 @@
   },
   "description": "This is is a Node.js OpenAI microservice using Node.js / Bun.sh with Docker",
   "engines": {
-    "node": "19"
+    "node": "18"
   },
   "private": true,
   "scripts": {
